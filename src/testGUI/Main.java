@@ -169,7 +169,7 @@ public class Main {
 		
 		JButton submit = new JButton("Submit");
 		submit.setFont(new Font("Verdana", Font.BOLD, 24));
-		primary.f.add(submit);
+	//	primary.f.add(submit);
 	}
 	
 	public static int getVals(ArrayList<button> arr) {
