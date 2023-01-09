@@ -125,7 +125,7 @@ public class Main {
 		}
 		
 	//	primary.f.add(panel);
-		primary.f.setLayout(new GridLayout(10, 9, 0, 0));
+		primary.f.setLayout(new GridLayout(9, 9, 0, 0));
 		primary.toggle();
 		System.out.println("Do we get ehre?");
 		susdoku.printBoard(susdoku.board);
